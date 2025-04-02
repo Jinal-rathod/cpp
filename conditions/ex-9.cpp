@@ -3,20 +3,22 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
 
     int num;
     cout << "Enter a number: ";
     cin >> num;
-    if (num < 0) {
+    if (num < 0)
+    {
         num = -num;
-        cout << "The absolute value is: " << num; 
+        cout << "The absolute value is: " << num;
     }
 }
 
-/*          
+/*
 #include <iostream>
-#include <cmath> 
+#include <cmath>
 using namespace std;
 
 int main() {
@@ -26,4 +28,3 @@ int main() {
     cout << "The absolute value is: " << abs(num) << endl;
 }
 */
-

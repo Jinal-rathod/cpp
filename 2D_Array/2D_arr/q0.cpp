@@ -1,7 +1,6 @@
 // take 2D array input and print the array
 
 #include <iostream>
-#include <vector>
 using namespace std;
 
 int main()

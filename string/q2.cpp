@@ -1,4 +1,4 @@
-// find count the vowel in string
+// count the vowel in string
 
 #include <iostream>
 using namespace std;
